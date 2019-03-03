@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Animal Information</string>
+    <string name="animal">Please, name one animal</string>
+    <string name="legs">How many legs does it have?</string>
+    <string name="fur">Has fur? Check for yes</string>
+    <string name="info">Include more information here</string>
+    <string name="click">Click the cat face when done</string>
+    <string name="home">Where does your animal live?</string>
+    <string-array name="habitat">
+        <item>Fish Tank</item>
+        <item>Ocean</item>
+        <item>Lake</item>
+        <item>River</item>
+        <item>Forest</item>
+        <item>Mountains</item>
+        <item>Savanna</item>
+        <item>Desert</item>
+        <item>Tundra</item>
+        <item>My house</item>
+
+    </string-array>
+</resources>
